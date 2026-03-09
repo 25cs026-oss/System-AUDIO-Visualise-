@@ -1,0 +1,8 @@
+{
+  "name": "System Audio Visualizer",
+  "description": "Visualizes system audio captured via screen sharing using the Web Audio API.",
+  "requestFramePermissions": [
+    "display-capture",
+    "microphone"
+  ]
+}
